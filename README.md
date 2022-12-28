@@ -5,3 +5,4 @@
 - Data Driven tests (test_math.py)
 - Testing Classes (test_accum.py)
 - Fixture (test_accum.py)
+- XML Report 
