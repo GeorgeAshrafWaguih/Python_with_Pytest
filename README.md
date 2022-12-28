@@ -6,3 +6,4 @@
 - Testing Classes (test_accum.py)
 - Fixture (test_accum.py)
 - XML Report 
+- Markers (test_math.py , test_accum.py)
