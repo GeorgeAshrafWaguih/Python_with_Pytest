@@ -7,3 +7,4 @@
 - Fixture (test_accum.py)
 - XML Report 
 - Markers (test_math.py , test_accum.py)
+- REST API (test_rest_api.py)
